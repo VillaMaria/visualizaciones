@@ -10,13 +10,15 @@ json_destino = "dendrograma/funcionarios-villa-maria.json"
 
 import json
 import csv
-resultados = {"count": 0, "results": []}
+resultados = {"count": 97, "results": []}
 
 with open(csv_origen) as csvfile:
 	reader = csv.DictReader(csvfile)
 	for row in reader:
 		# objeto funconario
 		func = {}
+		if row["id"] == "":
+			row["id"] = None  # se requiere un 'null' despues en el json
 		func["id"] = row["id"]
 		func["funcionario"] = {}
 		func["funcionario"]["nombre"] = row["Nombre"]
