@@ -1,0 +1,98 @@
+id,Cargo,Nombre,Teléfono Interno,Domicilio,depende_de,genero
+1,Intendente,Abog. Martín Gill,0353-4618100 int. 115,Mendoza esq. Antonio Sobral,,M
+2,Jefe de Asesores del Intendente,José Escamilla,,Lisandro de la Torre y Santa Fe,1,M
+3,Coordinador de Asesores del Intendente,Prof. Gerardo Russo,,Mendoza esq. Antonio Sobral,1,M
+4,Coordinadora Unidad Intendencia,María Celeste Curetti,0353-4618100 int. 117,Mendoza esq. Antonio Sobral,1,F
+5,Subsecretaria de Prensa y Comunicación Institucional,"Periodista Profesional, Eugenia Ramos",0353- 4618100 int. 111,Mendoza esq. Antonio Sobral,6,F
+6,Directora de Prensa,Lic. Muriel Tarantino,0353- 4618100 int. 111,Mendoza esq. Antonio Sobral,1,F
+7,Coordinador de Defensa Civil,Héctor Bersano,0353-155637630,Mendoza esq. Antonio Sobral,,M
+8,Coordinador General de Gestión de Riesgo y Defensa Civil,Diego Olivero,0353-4618100 int. 108,Mendoza esq. Antonio Sobral,,M
+9,Directora de Ceremonial y Protocolo,Miriam Tessore,,Mendoza esq. Antonio Sobral,,F
+10,Director de Relaciones Públicas,Dr. Miguel Sponer,0353-4618100 int. 115,Mendoza esq. Antonio Sobral,,M
+11,Jefe de Gabinete,Dr. Héctor Muñoz,0353-4618100 int. 228,Mendoza esq. Antonio Sobral,1,M
+12,Subsecretario de Descentralización Territorial,Lic. Lucas Pagliero,0353-4618100 int. 228,Mendoza esq. Antonio Sobral,11,M
+13,Coordinador de Abordajes Territoriales e Identidad,Sebastián Capurro,0353-4618100,Mendoza esq. Antonio Sobral,11,M
+14,Director del Municerca Nº 1,Mario Cortez,0353-4618690,Salta y La Quiaca,12,M
+15,Director del Municerca Nº 2,Lic. Damián Pablo Truccone,0353-4618699,Avenida Presidente Perón 2756,12,M
+16,Director del Municerca Nº 3,Marta Giusti,0353-4618613,Cartagena esquina Monte Hermoso,12,F
+17,Director del Municerca Nº 4,Oscar Cabrignac,0353-4618616,Bulevar Vélez Sarsfield e Italia,12,M
+18,Director del Municerca Nº 5,Jorge Barrera,0353-4618614,Puelo y Los Glaciares,12,M
+19,Director del Municerca Nº 6,Mauro Almirón,0353-154172674,Incahuasi 352,12,M
+20,Director del Municerca Nº 7,Andrés Cerón,0353-154247316,Rawson esquina La Quiaca,12,M
+21,Subsecretario de Información y Comunicaciones TIC,Ing. Christian Seppey,0353-4618100 int. 325,Mendoza esq. Antonio Sobral,11,M
+22,Director de Gestión Administrativa y Rendición de Programas con Fondos de otra Jurisdicción,Ángel Quaglia,,Mendoza esq. Antonio Sobral,11,M
+23,Directora de Relaciones Institucionales y Capacitación,María Fernanda Gili,0353-4618100 int. 313,Mendoza esq. Antonio Sobral,11,F
+24,Coordinador de Proyectos y Cooperación Internacional,Ing. Agr. Otto Wester,0353-4618697,Lisandro de la Torre y Santa Fe,11,M
+25,"Secretario de Desarrollo Urbano, Ambiente e Infraestructura",Ing. Carlos Ramírez,0353-4618100 int. 304,Mendoza esq. Antonio Sobral,1,M
+26,"Subsecretario de Desarrollo Urbano, Ambiente e Infraestructura",Omar Regueira,0353-4618100 int. 304,Mendoza esq. Antonio Sobral,25,M
+27,Directora de Proyectos de Obra Pública,Arq. Soledad Monge,0353-4618100 int. 322,Mendoza esq. Antonio Sobral,,F
+28,Director de Medioambiente y Saneamiento,Geólogo Germán Tissera,0353-4618100 int. 324,Mendoza esq. Antonio Sobral,,M
+29,Director de Infraestructura,Ing. Eduardo Martínez,0353-4618100 int. 316,Mendoza esq. Antonio Sobral,,M
+30,Coordinador de Obras de Infraestructura,Ing. Mauricio Di Febo,0353-4618100 int. 314,Mendoza esq. Antonio Sobral,,M
+31,Coordinadora de Asuntos Ambientales,Ing. Marina Crescimbeni,0353-4618100 int. 323,Mendoza esq. Antonio Sobral,,F
+32,Coordinadora de Saneamiento,Ing. Mariana Guardia,0353-4618100 int. 321,Mendoza esq. Antonio Sobral,,F
+33,Director del Espacio Público,Daniel Climaco,0353-4618100 int. 306,Mendoza esq. Antonio Sobral,,M
+34,Directora de Obras Privadas,Arq. María Laura González,0353-4618100 int. 435,Mendoza esq. Antonio Sobral,,F
+35,Director de Servicios de Corralón Municipal,Mario Fernando Chidichimo,0353-4618694,Avenida Gobernador Sabattini s/n,,M
+36,Subcoordinador de Administración del Corralón Municipal,Cr. Guillermo González,0353-4618694,Avenida Gobernador Sabattini s/n,,M
+37,Coordinador de Logística y Operativa de los Servicios Públicos,Gabriel Díaz,0353-4618100 int. 141,Mendoza esq. Antonio Sobral,,M
+38,Coordinador de Electricidad y Alumbrado,Jorge Mulinetti,0353-4618694,Avenida Gobernador Sabattini s/n,,M
+39,Presidente del Instituto Municipal de la Vivienda e Infraestructura Habitacional,Arq. Pablo González,0353-4618120,Mendoza 852,,M
+40,Vicepresidenta del Instituto Municipal de la Vivienda e Infraestructura Habitacional,Silvia Cuello,0353-4618120,Mendoza 852,,F
+41,Director de Administración del Instituto Municipal de la Vivienda e Infraestructura Habitacional,Hugo Fernández,0353-4618120,Mendoza 852,,M
+42,Directora de Políticas Sociales y Habitacionales,Lic. Hercilia Brusasca,0353-4618120,Mendoza 852,,F
+43,Vicepresidente Instituto Municipal de inversión,Abog. Danilo Baiocchi,0353-4618195,Mendoza 852,,M
+44,Asesor Letrado,Abog. Oscar Barroso,0353-4618100 int. 206,Mendoza esq. Antonio Sobral,,M
+45,Coordinador de Legal y Técnica,Abog. Ricardo Borsatto,0353-4618100 int. 203,Mendoza esq. Antonio Sobral,,M
+46,"Coordinadora de Admisiones, Concursos y Sumarios",Abog. Fernanda Gabriela Bertea,0353-4618100 int. 203,Mendoza esq. Antonio Sobral,,F
+47,Secretario de Salud,Dr. Humberto Jure,0353-4618100 int. 312,Mendoza esq. Antonio Sobral,1,M
+48,Subsecretaria de Salud,Dra. Raquel Rodrigo,0353-4618100 int. 318,Mendoza esq. Antonio Sobral,47,F
+49,Directora de los Centros de Atención Primaria de la Salud Municipal (CAPS),Lic. Rosana Tuninetti,0353-4520357,Lisandro de la Torre esquina Catamarca,,F
+50,Director de la Asistencia Pública,Dr. Raúl Marchegiani,0353-4520357,Lisandro de la Torre esquina Catamarca,,M
+51,"Directora administrativa del Hogar para la Sana Estadía ""Roberto Velo de Ípola""",Lic. Alejandra Álvarez,0353-4522170,Prolongación Alvear y Sarratea,,F
+52,"Directora de Salud del Hogar para la Santa Estadía ""Roberto Velo de Ípola""",Carlina Gudiño,0353-4522170,Prolongación Alvear y Sarratea,,F
+53,Secretaria de Inclusión Social y Familia,Claudia Fabiana Arias,0353-4618100 int. 209,Mendoza esq. Antonio Sobral,1,F
+54,Subsecretario de Inclusión Social,Prof. Jorge Argüello,0353-4618100 int. 222,Mendoza esq. Antonio Sobral,53,M
+55,Coordinadora de Familia,Lic. María Emilia Calderón,0353- 4618100 int. 440,Mendoza esq. Antonio Sobral,,F
+56,Coordinadora de Economía Social y Solidaria,Lic. María Virginia Martí,0353-4618100 int. 309,Mendoza esq. Antonio Sobral,,F
+57,Subsecretario de Desarrollo Humano,Dr. Julio Tabares,0353-4618100 int. 216,Mendoza esq. Antonio Sobral,,M
+58,Directora de Discapacidad,Verónica Chavero,0353-4618100 int. 443,Mendoza esq. Antonio Sobral,,F
+59,"Coordinadora de Derechos Humanos, Diversidad y Género",Daniel Massara,0353-4618100 int. 216,Mendoza esq. Antonio Sobral,,M
+60,"Directora de Escuela Granja ""Los Amigos""",Melina Mosquera Díaz,,Vélez Sarsfield s/n zona rural,,F
+61,Secretario de Gobierno y Vínculos Comunitarios,Prof. Rafael Sachetto,0353-4618100 int. 213,Mendoza esq. Antonio Sobral,1,M
+62,Subsecretaria de Inspección General,María Valeria Suárez,0353-4618100 int. 214,Mendoza esq. Antonio Sobral,61,F
+63,Director de Salud Animal y Control de Zoonosis,Méd. Veterinario Federico Soria,0353-4618100 int. 218,Mendoza esq. Antonio Sobral,,M
+64,Subsecretaria de Cultura,Lic. Gabriela Redondo,0353-4618155,Avenida Gobernador Sabattini 200,,M
+65,"Coordinador del Centro Cultural Comunitario ""Leonardo Favio""",Lic. Laura Giordanino,0353-4618155,Avenida Gobernador Sabattini 200,,F
+66,Director de Patrimonio Histórico,Arq. Hugo Las Heras,0353-4613732,Dante Alighieri esq. Bulevar Cárcano,,M
+67,Directora de Museos,Prof. Analía del Carmen Godoy,0353-4527092,Bulevar Sarmiento esq. San Martín,,F
+68,Directora de Procesos de Gestión Aministrativa,Gabriela Cabello,0353-4618100 int. 217,Mendoza esq. Antonio Sobral,,F
+69,Director de Vínculos Comunitarios,Hernán Ippólito,0353-4618100 int. 217,Mendoza esq. Antonio Sobral,,M
+70,Director de Participación Vecinal,Enrique Pires,,,,M
+71,Subcoordinadora de Participación Vecinal,Laura Sánchez,0353-4618100 int. 221,Mendoza esq. Antonio Sobral,,F
+72,"Director de relaciones Laborales, Capital Humano y Ténico",Abog. Rodrigo Pablo Hayas,0353-4618100 int. 217,Mendoza esq. Antonio Sobral,,M
+73,Jefe de Registro Civil,Tec. Daniel López,0353-4618100 int. 450,Mendoza esq. Antonio Sobral,,M
+74,Subsecretario de Seguridad Ciudadana,Carlos Vivas,0353-4618100 int. 219,Mendoza esq. Antonio Sobral,,M
+75,Secretaria de Economía y Finanzas,Cra. Daniela Lucarelli,0353-4618100 int. 121,Mendoza esq. Antonio Sobral,1,F
+76,Coordinador del Departamento de Transparencia y Control de Gestión,Cr. David Alejandro Bianchi,0353-4618100 int. 106,Mendoza esq. Antonio Sobral,,M
+77,Coordinador del Departamento de Modernización del Estado,Cr. Pablo Peretti,0353-4618100 int. 107,Mendoza esq. Antonio Sobral,,M
+78,"Coordinador General de Compras, Stock y Aprovisionamiento",Cr. Rodolfo Eduardo Diana,0353-4618100 int. 130,Mendoza esq. Antonio Sobral,,M
+79,Director de Contrataciones,Cra. Romina Rico,0353-4618100 int. 130,Mendoza esq. Antonio Sobral,,F
+80,Directora de Administración y Gestión Económica,Cra. Carola García,0353-4618100 int. 125,Mendoza esq. Antonio Sobral,,F
+81,Directora de Presupuesto,Cra. Eliana Anino,0353-4618100. int. 123,Mendoza esq. Antonio Sobral,,F
+82,Subsecretario de Ingresos Públicos,Cr. Lucas Ateca,0353-4618100 int. 414,Mendoza esq. Antonio Sobral,,M
+83,Secretaría de Educación,Dra. Margarita Schweizer,0353-4527092,Bulevar Sarmiento esq. San Martín,1,F
+84,Subsecretaria de Educación Inicial,Prof. Mariela Pajón,0353-4527092,Bulevar Sarmiento esq. San Martín,,F
+85,Presidente del Ente para el Desarrollo Productivo y Tecnológico,Javier Suppo,0353-4618697,Lisandro de la Torre y Santa Fe,,M
+86,,Cr. Alejandro Coschica,0353-4618697,,,M
+87,Director de Oficina de Empleo,Pablo Paris,0353-4618100 interno 441,Mendoza 852,,M
+88,Presidente Unidad Ejecutora Villa María Deporte y Turismo SEM,Lic. Marcos Bovo,0353-4618100 int. 110,Mendoza esq. Antonio Sobral,,M
+89,Director de Deportes,Prof. Fernando Badrán,0353-4618618,Av. Costanera y Buenos Aires,,M
+90,Director de Turismo,Cr. Carlos Azzaretti,0353-4618618,Av. Costanera y Buenos Aires,,M
+91,Ente Parque Industrial y Tecnológico Villa María SEM,Rodolfo Banchio,0353-4618698,Ruta Nacional Nº 9 km 551,,M
+92,Gerenta del Parque Industrial y Tecnológico Villa María SEM,Cra. Alejandra Barbero,0353-4618698,Ruta Nacional Nº 9 km 551,,F
+93,Presidente del Tribunal de Cuentas,Dr. Julio Oyola,0353-4618100 int. 328,Mendoza esq. Antonio Sobral,,M
+94,Vocal del Tribunal de Cuentas,Cra. Mariela Boaglio,0353-4618100 int. 428,Mendoza esq. Antonio Sobral,,F
+95,Vocal del Tribunal de Cuentas,Abog. Patricia Gómez,0353-4618100 int. 330,Mendoza esq. Antonio Sobral,,F
+96,Secretario Técnico,Cr. Ricardo Faure,0353-4618100 int. 329,Mendoza esq. Antonio Sobral,1,M
+97,Secretaria Técnica,Abog. Susana Chiapella,0353-4618100 int. 329,Mendoza esq. Antonio Sobral,1,F
