@@ -17,8 +17,7 @@ with open(csv_origen) as csvfile:
 	for row in reader:
 		# objeto funconario
 		func = {}
-		if row["id"] == "":
-			row["id"] = None  # se requiere un 'null' despues en el json
+		
 		func["id"] = row["id"]
 		func["funcionario"] = {}
 		func["funcionario"]["nombre"] = row["Nombre"]
@@ -39,10 +38,14 @@ with open(csv_origen) as csvfile:
 		func["cargo"]["categoria"]["nombre_corto"] = row["Cargo"]  # no usamos
 		func["cargo"]["categoria"]["orden"] = 10
 		func["cargo"]["nombre"] = row["Cargo"]
+		
+		if row["depende_de"] == "" or row["depende_de"] == "0":
+			row["depende_de"] = None
+		
 		func["cargo"]["depende_de"] = row["depende_de"]
 		func["cargo"]["electivo"] = False  # no usamos
 		func["cargo"]["superioresids"] = []  # no usamos
-		func["cargo"]["oficina"] = row["Cargo"]
+		func["cargo"]["oficina"] = row["Telefono"]
 		func["fecha_inicio"] = ""
 		func["fecha_fin"] = ""
 		func["decreto_nro"] = None

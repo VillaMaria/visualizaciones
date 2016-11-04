@@ -1,4 +1,4 @@
-id,Cargo,Nombre,Teléfono Interno,Domicilio,depende_de,genero
+id,Cargo,Nombre,Telefono,Domicilio,depende_de,genero
 1,Intendente,Abog. Martín Gill,0353-4618100 int. 115,Mendoza esq. Antonio Sobral,0,M
 2,Jefe de Asesores del Intendente,José Escamilla,,Lisandro de la Torre y Santa Fe,4,M
 3,Coordinador de Asesores del Intendente,Prof. Gerardo Russo,,Mendoza esq. Antonio Sobral,2,M

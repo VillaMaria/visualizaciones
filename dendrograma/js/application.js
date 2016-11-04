@@ -15,7 +15,7 @@ function dendogram(funcionarios) {
         radius = selectedradius;
     }
 
-    var results = generateTree(funcionarios.results, "", 0)[0];
+    var results = generateTree(funcionarios.results, null, 0)[0];
     var directors = getSubordinates(funcionarios.results, results.data.cargo.id);
     var secretaries = directors.map(function (p) {
         return p.cargo.oficina

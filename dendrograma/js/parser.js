@@ -45,6 +45,8 @@ function createPerson(person, children, level) {
 
 function getSubordinates(array, id) {
     return _.filter(array, function(person) {
+        if (person.cargo.depende_de == "") 
+            person.cargo.depende_de = null;
         return person.cargo.depende_de == id;
     });
 }
